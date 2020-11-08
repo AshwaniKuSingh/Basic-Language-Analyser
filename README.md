@@ -1,6 +1,6 @@
 # Basic-Language-Analyser
 
-A basic language analyser to investigate the linguistic characteristics of children with some form of language disorders. The analyser is able to perform basic statistical analysis on a number of linguistic features and also analysis results is presented using visualisation.
+A basic language analyser to investigate the linguistic characteristics of children with some form of language disorders. The analyser is able to perform basic statistical analysis on a number of linguistic features and also analysis result is presented using visualisation.
 
 There are two datasets. The dataset is known as ENNI [https://childes.talkbank.org/access/Clinical-MOR/ ENNI.html] which is a collection of narrative transcripts gathered for a clinical study carried out in Alberta, Canada, to study children with language disorders. Two sets of data were collected: the first set is from children diagnosed with Specific Language Impairment (SLI) — one form of language disorders; and the second set is from children with the typical development (TD). A subset of the original corpus is used in this assignment with 10 selected transcripts for each group of children.
 
